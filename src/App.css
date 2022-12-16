@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Homemade+Apple&family=La+Belle+Aurore&display=swap");
+body {
+  margin-top: 3rem;
+  background-image: linear-gradient(#d1d5db 1px, transparent 0px);
+  background-size: 100% 2em;
+
+  background-position-y: 1.5rem;
+  line-height: 2em;
+}
+
+p {
+  color: #16264c;
+  font-family: "La Belle Aurore", cursive;
+  font-size: 1.5rem;
+  margin-left: 2rem;
+  margin-top: -20px;
+}
+
+li {
+  list-style: none;
+  color: #4b4e53;
+  font-family: "Homemade Apple", cursive;
+  font-size: 1.1rem;
+  margin-bottom: 1.2rem;
+}
